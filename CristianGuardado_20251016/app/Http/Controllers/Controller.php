@@ -7,7 +7,7 @@ use OpenApi\Attibutes as OA;
  * @OA\OpenApi(
  * @OA\Info(
  *     version="1.0.0",
- *     title="Documentacion de API Desarrolloda por Cristian Adonay Reyes Guardado",
+ *     title="Documentacion de API Desarrolloda por Cristian Adonay Reyes Guardado ",
  *      description="API Desarrolloda por Cristian Adonay Reyes Guardado, para la Universidad Francisco Gavidia",
  *      @OA\Contact(
  *          email="ia.rg100321@ufg.edu.sv"
@@ -18,6 +18,7 @@ use OpenApi\Attibutes as OA;
  *      )
  * )
  * )
+ * 
  * @OA\Server(
  *   url="http://localhost:8000/",
  *   description="Servidor local de desarrollo"
@@ -29,7 +30,7 @@ use OpenApi\Attibutes as OA;
  * )
  * 
  * @OA\Server(
- *   url="http://mjgg.ejemplo.com/",
+ *   url="http://carg.ejemplo.com/",
  *   description="Servidor de Produccion"
  * )
  * 
